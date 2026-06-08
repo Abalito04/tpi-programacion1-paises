@@ -56,7 +56,3 @@ Argentina            | Poblacion: 45376763     | Superficie: 2780400    km2 | Co
 
 - Integrante 1: Matias Emanuel Abalo
 - Integrante 2:
-
-## Links
-
-- Video demostrativo:
