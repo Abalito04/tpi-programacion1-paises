@@ -1,4 +1,17 @@
-# TPI Programación 1 - Gestión de Datos de Países
+# TPI Programación 1 - Gestión de Datos de Países - UTN Programacion 1
+
+## Integrantes
+
+Integrante 1: Matias Emanuel Abalo
+Integrante 2: Ignacio Nicolas Merlo
+
+## Tutores
+
+Profesores: Ariel Enferrel, Martín A. García, Cinthia Rigoni.
+Tutor de comisión: Tomás Ferro.
+Coordinador: Alberto Cortez.
+
+## Resumen del Proyecto
 
 Este proyecto es una aplicación de consola en Python que permite gestionar datos de países usando listas, diccionarios, funciones, condicionales, ciclos, lectura de archivos CSV, filtros, ordenamientos y estadísticas básicas.
 
@@ -59,11 +72,6 @@ Listado de países
 Argentina            | Población: 45376763     | Superficie: 2780400    km2 | Continente: América
 -------------------------------------------------------------------------------------
 ```
-
-## Integrantes
-
-Integrante 1: Matias Emanuel Abalo
-Integrante 2: Ignacio Nicolas Merlo
 
 ## Links
 
