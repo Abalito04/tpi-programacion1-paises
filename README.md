@@ -77,4 +77,4 @@ Argentina            | Población: 45376763     | Superficie: 2780400    km2 | C
 
 - Repositorio GitHub: https://github.com/Abalito04/tpi-programacion1-paises
 - Video demostrativo:
-- Documentación PDF: `Informe_TPI_Gestion_de_Datos_de_Paises.pdf`
+- Documentación PDF: `Informe_TPI_Gestion_de_Datos_de_Paises.pdf` https://github.com/Abalito04/tpi-programacion1-paises/blob/main/Informe_TPI_Gestion_de_Datos_de_Paises.pdf
