@@ -30,7 +30,7 @@ Nota: el archivo CSV está guardado en codificación UTF-8 con BOM para que los 
 
 ## Cómo ejecutar
 
-1. Tener instalado Python 3.
+1. Tener instalado Python 3.  https://www.python.org/downloads/
 2. Abrir una terminal en la carpeta del proyecto.
 3. Ejecutar:
 
