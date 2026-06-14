@@ -1,36 +1,17 @@
-# TPI Programación 1 - Gestión de Datos de Países - UTN Programacion 1
-
-## Integrantes
-
-Integrante 1: Matias Emanuel Abalo
-Integrante 2: Ignacio Nicolas Merlo
-
-## Tutores
-
-Profesores: Ariel Enferrel, Martín A. García, Cinthia Rigoni.
-Tutor de comisión: Tomás Ferro.
-Coordinador: Alberto Cortez.
-
-## Resumen del Proyecto
+# TPI Programación 1 - Gestión de Datos de Países
 
 Este proyecto es una aplicación de consola en Python que permite gestionar datos de países usando listas, diccionarios, funciones, condicionales, ciclos, lectura de archivos CSV, filtros, ordenamientos y estadísticas básicas.
 
 ## Archivos del proyecto
 
-- `main.py`: punto de entrada del programa.
-- `config.py`: configuración general, como el nombre del archivo CSV.
-- `archivo_csv.py`: funciones para cargar y guardar datos en CSV.
-- `validaciones.py`: funciones para pedir y validar datos ingresados por el usuario.
-- `presentacion.py`: funciones para mostrar países en pantalla.
-- `operaciones_paises.py`: funciones de búsqueda, alta, actualización, filtros, ordenamientos y estadísticas.
-- `menus.py`: menú principal y submenú de filtros.
+- `main.py`: archivo principal del programa. Contiene todas las funciones separadas por secciones internas: carga y guardado de CSV, validaciones, presentación, operaciones sobre países, filtros, ordenamientos, estadísticas y menú.
 - `data/paises.csv`: dataset base con nombre, población, superficie y continente.
 
 Nota: el archivo CSV está guardado en codificación UTF-8 con BOM para que los acentos y la ñ se vean correctamente al abrirlo en Excel o editores de Windows.
 
 ## Cómo ejecutar
 
-1. Tener instalado Python 3.  https://www.python.org/downloads/
+1. Tener instalado Python 3.
 2. Abrir una terminal en la carpeta del proyecto.
 3. Ejecutar:
 
@@ -73,8 +54,13 @@ Argentina            | Población: 45376763     | Superficie: 2780400    km2 | C
 -------------------------------------------------------------------------------------
 ```
 
+## Integrantes
+
+Integrante 1: Matias Emanuel Abalo
+Integrante 2: Ignacio Nicolas Merlo
+
 ## Links
 
 - Repositorio GitHub: https://github.com/Abalito04/tpi-programacion1-paises
 - Video demostrativo:
-- Documentación PDF: `Informe_TPI_Gestion_de_Datos_de_Paises.pdf` https://github.com/Abalito04/tpi-programacion1-paises/blob/main/Informe_TPI_Gestion_de_Datos_de_Paises.pdf
+- Documentación PDF: `Informe_TPI_Gestion_de_Datos_de_Paises.pdf`
