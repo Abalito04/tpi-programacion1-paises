@@ -63,5 +63,5 @@ Integrante 2: Ignacio Nicolas Merlo
 ## Links
 
 - Repositorio GitHub: https://github.com/Abalito04/tpi-programacion1-paises
-- Video demostrativo:
+- Video demostrativo: https://www.youtube.com/watch?v=LaGFrQpS2ag
 - Documentación PDF: `Informe_TPI_Gestion_de_Datos_de_Paises.pdf`
